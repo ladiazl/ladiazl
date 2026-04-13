@@ -1,4 +1,4 @@
-## About Me
+## About
 
 ```yaml
 name: Laura Diaz
@@ -28,7 +28,8 @@ goals:
 
 ## Projects
 
-### Satellite Image Segmentation (Machine Learning)
+<details>
+<summary><b>Satellite Image Segmentation (Machine Learning)</b></summary>
 Unsupervised learning for land cover identification in multispectral satellite imagery.
 
 - **Data:** Processed multispectral satellite imagery using `rasterio` and `NumPy`.
@@ -37,10 +38,10 @@ Unsupervised learning for land cover identification in multispectral satellite i
 - **Validation:** Verified land cover categories through visual inspection.
 
 [View in Google Colab](https://colab.research.google.com/drive/1ZBxasodY_2usQyABxV9DOhPAJ6Cpsmfp) | Documentation available in Spanish
+</details>
 
----
-
-### House Price Prediction (MLOps)
+<details>
+<summary><b>House Price Prediction (MLOps)</b></summary>
 Collaborative project to build a house price prediction pipeline and API.
 
 - **Development:** Built the [**preprocessing pipeline**](https://github.com/Nikolas-1/MLDS6/blob/master/scripts/preprocessing/main.py) and developed the [**predictive models**](https://github.com/Nikolas-1/MLDS6/blob/master/scripts/training/model_training.ipynb).
@@ -49,3 +50,4 @@ Collaborative project to build a house price prediction pipeline and API.
 - **Collaboration:** Partnered with [Nikolas](https://github.com/Nikolas-1), who handled the initial data exploration, FastAPI integration, and Railway deployment.
 
 [Project Repository](https://github.com/Nikolas-1/MLDS6) | Documentation available in Spanish
+</details>
